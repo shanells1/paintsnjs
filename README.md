@@ -1,2 +1,3 @@
 # paintsnjs
-painting Board made with vanillaJS
+painting Board made with vanilla
+## proto
